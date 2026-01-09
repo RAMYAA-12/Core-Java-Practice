@@ -15,5 +15,6 @@ public class HollowTriangle {
             }
             System.out.println();
         }
+        s.close();
     }
 }
